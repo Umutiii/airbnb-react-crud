@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # React + Vite Başlangıç Şablonu
 
@@ -63,3 +64,7 @@ MIT Lisansı ile lisanslanmıştır. Özgürce kullanabilir, düzenleyebilir ve 
 ---
 
 Keyifli kodlamalar! 🎉
+=======
+# Menu
+Dunya-yemekleri
+>>>>>>> f97214428c3e50507b457cd4c69c5e8c13d2f639
