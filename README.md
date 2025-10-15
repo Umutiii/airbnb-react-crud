@@ -1,70 +1,26 @@
-<<<<<<< HEAD
+# 🏡 Airbnb React CRUD App
 
-# React + Vite Başlangıç Şablonu
+React, TypeScript, Vite ve Tailwind CSS kullanarak yapılmış bir CRUD uygulaması.  
+JSON Server ile sahte API üzerinden veri işlemleri yapılmaktadır.
 
-Bu proje, modern bir React uygulaması başlatmak için temel bir yapı sunar. Vite kullanılarak yapılandırılmıştır ve Tailwind CSS ile birlikte gelir.
+## 🚀 Özellikler
 
-## 🚀 Hızlı Başlangıç
+- Ev ekleme, düzenleme ve silme
+- Tüm evleri listeleme
+- Detay sayfası
+- Tailwind CSS ile modern tasarım
 
-Projeyi bilgisayarına klonlamak ve başlatmak için aşağıdaki adımları takip edebilirsin:
+## 🛠️ Teknolojiler
+
+- React + TypeScript
+- Vite
+- Tailwind CSS
+- JSON Server
+- Axios + React Router DOM
+
+## ⚙️ Çalıştırma
 
 ```bash
-npx degit ozcanzaferayan/react proje-adi
-cd proje-adi
 npm install
 npm run dev
 ```
-
-> Bu komut sayesinde Git geçmişi olmadan yalnızca proje dosyaları indirilir.
-
-## 📁 Klasör Yapısı
-
-```
-proje-adi/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── App.tsx
-│   ├── index.css
-│   ├── main.tsx
-│   └── vite-env.d.ts
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── README.md
-├── tsconfig.json
-├── tsconfig.app.json
-├── tsconfig.node.json
-└── vite.config.ts
-```
-
-## 🛠 Teknolojiler
-
-- ⚛️ React
-- ⚡ Vite
-- 🎨 Tailwind CSS
-- 🧹 ESLint
-- 🟦 TypeScript
-
-## 🧪 Gereksinimler
-
-- Node.js 18+
-- npm (veya yarn)
-
-## 🌐 GitHub
-
-[Proje GitHub Sayfası](https://github.com/ozcanzaferayan/react)
-
-## 📄 Lisans
-
-MIT Lisansı ile lisanslanmıştır. Özgürce kullanabilir, düzenleyebilir ve paylaşabilirsiniz.
-
----
-
-Keyifli kodlamalar! 🎉
-=======
-# Menu
-Dunya-yemekleri
->>>>>>> f97214428c3e50507b457cd4c69c5e8c13d2f639
