@@ -1,0 +1,67 @@
+{
+  "homes": [
+    {
+      "id": "1",
+      "title": "Cozy Mountain Cabin",
+      "description": "A charming wooden cabin nestled in the mountains, offering a peaceful retreat.",
+      "pricePerNight": 120,
+      "location": "Uludağ, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1570793005386-840846445fed?auto=format&fit=crop&w=800&q=80",
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "amenities": [
+        "Fireplace",
+        "Parking",
+        "Kitchen",
+        "Mountain View"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Rustic Forest Cabin",
+      "description": "A secluded wooden cabin surrounded by dense forest, offering complete privacy.",
+      "pricePerNight": 180,
+      "location": "Uludağ, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1475087542963-13ab5e611954?auto=format&fit=crop&w=800&q=80",
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "amenities": [
+        "Fireplace",
+        "Parking",
+        "Kitchen",
+        "Forest View"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mountain Cabin Retreat",
+      "description": "Cozy cabin surrounded by nature, ideal for a weekend getaway.",
+      "pricePerNight": 150,
+      "location": "Uludağ, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80",
+      "guests": 3,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "amenities": [
+        "Fireplace",
+        "Parking",
+        "Kitchen",
+        "Mountain View"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "dadad",
+      "description": "adadada",
+      "pricePerNight": 234,
+      "location": "İstanbul",
+      "imageUrl": "https://images.unsplash.com/photo-1515950878003-6d8db4e1042f?auto=format&fit=crop&q=80&w=1170",
+      "guests": 1,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "amenities": []
+    }
+  ]
+}
